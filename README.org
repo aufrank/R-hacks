@@ -1,0 +1,9 @@
+#+TITLE:     README.org
+#+AUTHOR:    Austin F. Frank
+#+EMAIL:     austin.frank@gmail.com
+#+DATE:      2011-02-24 Thu
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+
+When I find I'm using the same functions on more than one project, I
+factor them out and keep them here.
