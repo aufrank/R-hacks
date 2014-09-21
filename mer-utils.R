@@ -21,7 +21,7 @@ kappa.mer <- function (fit,
                        scale = TRUE, center = FALSE,
                        add.intercept = TRUE,
                        exact = FALSE) {
-    X <- fit@X
+    X <- fit@pp$X
     nam <- names(fixef(fit))
     
     ## exclude intercepts
